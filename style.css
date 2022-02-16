@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.text_message {
+  width: 70%;
+  margin: 0 auto;
+  position: relative;
+  top: 50px;
+  text-align: center;
+  padding: 20px 0px;
+}
+.count_section {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 100px 0px;
+  justify-content: center;
+  align-items: center;
+}
+.increment_value {
+  font-size: 2rem;
+  color: green;
+  text-transform: uppercase;
+  padding: 20px 10px;
+  cursor: pointer;
+  border: 1px solid green;
+  border-radius: 10px 10px 10px 10px;
+}
+.decrement_value {
+  cursor: pointer;
+  font-size: 2rem;
+  color: red;
+  text-transform: uppercase;
+  padding: 20px 10px;
+  border: 1px solid red;
+  border-radius: 10px 10px 10px 10px;
+}
+.current_value {
+  font-size: 1.5rem;
+  padding: 20px 10px;
+}
+.reset_value {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px 0px;
+  font-size: 2rem;
+  color: white;
+  font-weight: bolder;
+  cursor: pointer;
+  background-color: goldenrod;
+}
