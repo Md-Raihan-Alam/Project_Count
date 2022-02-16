@@ -1,4 +1,4 @@
-# Count App
+# Count Project
 
 -This project show my skills at handeling event listeners and work with functions. Again ignore the css work as js was only priority here
 This app helps with counting with buttons. As you can see it is not very complex app. This project is only for testing my handeling with
